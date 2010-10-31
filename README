@@ -1,0 +1,8 @@
+Dependencies:
+
+- Node.js: http://nodejs.org/
+- Underscore.js: http://documentcloud.github.com/underscore/
+- NodeJS IRC client library: http://github.com/martynsmith/node-irc
+
+If you have npm (http://github.com/isaacs/npm), probably the easiest way to install NodeJS libraries is:
+$ npm install underscore irc
